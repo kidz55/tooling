@@ -41,6 +41,8 @@ cl
 | Script | Description |
 |--------|-------------|
 | [`setup-claude-code.sh`](scripts/setup-claude-code.sh) | Portable Claude Code environment setup for new laptops |
+| [`agent-matrix.sh`](scripts/agent-matrix.sh) | 3x3 cyberpunk iTerm2 matrix — color-coded panes per project |
+| [`agent-desktop.sh`](scripts/agent-desktop.sh) | iTerm2 tab launcher — one tab per project |
 
 ## CLI Tools Reference
 
